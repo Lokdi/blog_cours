@@ -1,0 +1,10 @@
+.header{
+    background-color: black;
+    min-height: 70px;
+    color: white;
+}
+.nav-pills .nav-link {
+    background: 0 0;
+    border: 0;
+    border-radius: 0rem;
+}
